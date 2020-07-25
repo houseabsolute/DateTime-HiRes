@@ -4,7 +4,7 @@ DateTime::HiRes - Create DateTime objects with sub-second current time resolutio
 
 # VERSION
 
-version 0.02
+version 0.03
 
 # SYNOPSIS
 
@@ -41,7 +41,7 @@ Everyone at the DateTime `Asylum`.
 
 # SUPPORT
 
-Bugs may be submitted at [https://rt.cpan.org/Public/Dist/Display.html?Name=DateTime-HiRes](https://rt.cpan.org/Public/Dist/Display.html?Name=DateTime-HiRes) or via email to [bug-datetime-hires@rt.cpan.org](mailto:bug-datetime-hires@rt.cpan.org).
+Bugs may be submitted at [https://github.com/houseabsolute/DateTime-HiRes/issues](https://github.com/houseabsolute/DateTime-HiRes/issues).
 
 I am also usually active on IRC as 'autarch' on `irc://irc.perl.org`.
 
