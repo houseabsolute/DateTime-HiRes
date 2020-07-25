@@ -1,5 +1,7 @@
 {{$NEXT}}
 
+0.02     2020-07-25
+
 - Fixed a test that was failing because of changes in DateTime::Locale.
 
 

@@ -4,7 +4,7 @@ DateTime::HiRes - Create DateTime objects with sub-second current time resolutio
 
 # VERSION
 
-version 0.01
+version 0.02
 
 # SYNOPSIS
 
@@ -24,8 +24,8 @@ This class provides the following methods:
 ## DateTime::HiRes->now( ... )
 
 Similar to `DateTime->now` but uses `Time::HiRes::time()` instead of
-Perl's `CORE::time()` to determine the current time.  The returned object will
-have fractional second information stored as nanoseconds.  The sub-second
+Perl's `CORE::time()` to determine the current time. The returned object will
+have fractional second information stored as nanoseconds. The sub-second
 precision of `Time::HiRes` is highly system dependent and will vary from one
 platform to the next.
 
@@ -54,10 +54,9 @@ The source code repository for DateTime-HiRes can be found at [https://github.co
 - Joshua Hoblitt <jhoblitt@cpan.org>
 - Dave Rolsky <autarch@urth.org>
 
-# CONTRIBUTORS
+# CONTRIBUTOR
 
-- Joshua Hoblitt <josh@hoblitt.com>
-- Roy Ivy III <rivy.dev@gmail.com>
+Roy Ivy III <rivy.dev@gmail.com>
 
 # COPYRIGHT AND LICENSE
 
