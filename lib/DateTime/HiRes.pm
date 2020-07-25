@@ -36,8 +36,8 @@ This class provides the following methods:
 =head2 DateTime::HiRes->now( ... )
 
 Similar to C<DateTime-E<gt>now> but uses C<Time::HiRes::time()> instead of
-Perl's C<CORE::time()> to determine the current time.  The returned object will
-have fractional second information stored as nanoseconds.  The sub-second
+Perl's C<CORE::time()> to determine the current time. The returned object will
+have fractional second information stored as nanoseconds. The sub-second
 precision of C<Time::HiRes> is highly system dependent and will vary from one
 platform to the next.
 
