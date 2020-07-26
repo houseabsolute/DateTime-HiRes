@@ -4,7 +4,7 @@ DateTime::HiRes - Create DateTime objects with sub-second current time resolutio
 
 # VERSION
 
-version 0.03
+version 0.04
 
 # SYNOPSIS
 
@@ -60,11 +60,10 @@ Roy Ivy III <rivy.dev@gmail.com>
 
 # COPYRIGHT AND LICENSE
 
-This software is Copyright (c) 2020 by Joshua Hoblitt.
+This software is copyright (c) 2020 by Joshua Hoblitt.
 
-This is free software, licensed under:
-
-    The Artistic License 2.0 (GPL Compatible)
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
 
 The full text of the license can be found in the
 `LICENSE` file included with this distribution.

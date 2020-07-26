@@ -15,7 +15,7 @@ my %WriteMakefileArgs = (
     "ExtUtils::MakeMaker" => 0
   },
   "DISTNAME" => "DateTime-HiRes",
-  "LICENSE" => "artistic_2",
+  "LICENSE" => "perl",
   "NAME" => "DateTime::HiRes",
   "PREREQ_PM" => {
     "DateTime" => 0,

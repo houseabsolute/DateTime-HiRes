@@ -1,5 +1,7 @@
 {{$NEXT}}
 
+0.04     2020-07-26
+
 - Fix license. The 0.02 release unintentionally switched it to Artistic
   2.0. Reported by Kent Fredric. GH #1.
 
