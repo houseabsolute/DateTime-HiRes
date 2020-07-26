@@ -1,5 +1,9 @@
 {{$NEXT}}
 
+- Fix license. The 0.02 release unintentionally switched it to Artistic
+  2.0. Reported by Kent Fredric. GH #1.
+
+
 0.03     2020-07-25
 
 - Switch to GitHub issues.
